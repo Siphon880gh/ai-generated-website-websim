@@ -1,8 +1,5 @@
 # Prompt Engineering to Generate Website on WebSim
 
-
-# Prompt Engineering to Generate Website on WebSim
-
 By Weng Fei Fung (Weng). This project highlights how I engineered and optimized a prompt using text generation tools—combining a ChatGPT-4 style guide with business needs—to get high-quality results from WebSim's text-to-website generator (https://websim.com/). The site was then deployed to Github Pages using gh-pages.
 
 ## Live Demos
