@@ -8,7 +8,7 @@ By Weng Fei Fung (Weng). This project highlights how I engineered and optimized 
 ## Live Demos
 
 You can check out the live demo at:
-- [Github Page](https://Siphon880gh.github.io/ai-generated-website-v0/)
+- [Github Page](https://Siphon880gh.github.io/ai-generated-website-websim/)
 
 ## Development Process
 
@@ -21,7 +21,7 @@ You can check out the live demo at:
 You are a web design expert. Suggest theme colors, fonts, branding, conversion layout that's consistent to their industry and target customer. Please look at <competitor_website>
 ```
 
-### v0 Prompt (Website Generation)
+### WebSim Prompt (Website Generation)
 ```
 ### W.F. Weng Electric - Professional Electrician Website
 
@@ -56,23 +56,3 @@ I've created a modern, professional website for W.F. Weng Electric that emphasiz
 
 The website is fully responsive and follows accessibility best practices, ensuring it works well on all devices and for all users.
 ```
-
-## Run Locally
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
